@@ -1,0 +1,13 @@
+C:\Users\besmi\Development\TTU-VLCStream\bin\debug\netcoreapp3.1\TTU-VLCStream.exe
+C:\Users\besmi\Development\TTU-VLCStream\bin\debug\netcoreapp3.1\TTU-VLCStream.deps.json
+C:\Users\besmi\Development\TTU-VLCStream\bin\debug\netcoreapp3.1\TTU-VLCStream.runtimeconfig.json
+C:\Users\besmi\Development\TTU-VLCStream\bin\debug\netcoreapp3.1\TTU-VLCStream.runtimeconfig.dev.json
+C:\Users\besmi\Development\TTU-VLCStream\bin\debug\netcoreapp3.1\TTU-VLCStream.dll
+C:\Users\besmi\Development\TTU-VLCStream\bin\debug\netcoreapp3.1\TTU-VLCStream.pdb
+C:\Users\besmi\Development\TTU-VLCStream\obj\debug\netcoreapp3.1\TTU-VLCStream.csprojAssemblyReference.cache
+C:\Users\besmi\Development\TTU-VLCStream\obj\debug\netcoreapp3.1\TTU-VLCStream.AssemblyInfoInputs.cache
+C:\Users\besmi\Development\TTU-VLCStream\obj\debug\netcoreapp3.1\TTU-VLCStream.AssemblyInfo.cs
+C:\Users\besmi\Development\TTU-VLCStream\obj\debug\netcoreapp3.1\TTU-VLCStream.csproj.CoreCompileInputs.cache
+C:\Users\besmi\Development\TTU-VLCStream\obj\debug\netcoreapp3.1\TTU-VLCStream.dll
+C:\Users\besmi\Development\TTU-VLCStream\obj\debug\netcoreapp3.1\TTU-VLCStream.pdb
+C:\Users\besmi\Development\TTU-VLCStream\obj\debug\netcoreapp3.1\TTU-VLCStream.genruntimeconfig.cache

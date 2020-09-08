@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6EgmnFAtHT2cK3cfMTGssUyL7wHeNYx2ggRz17jnEtpT8WTkZyLT/NTnEXA4kNpB+6BT1WetyjreQz9ZqZNQug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\besmi\\Development\\TTU-VLCStream\\TTU-VLCStream.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\besmi\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.7\\microsoft.netcore.app.runtime.win-x64.3.1.7.nupkg.sha512",
+    "C:\\Users\\besmi\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.2\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.2.nupkg.sha512",
+    "C:\\Users\\besmi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
+    "C:\\Users\\besmi\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.2\\microsoft.aspnetcore.app.runtime.win-x64.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
